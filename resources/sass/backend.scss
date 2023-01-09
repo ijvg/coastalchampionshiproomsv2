@@ -1,0 +1,173 @@
+.btn-info {
+    background-color: #44AAAC!important;
+    border-color: #44AAAC!important;
+}
+
+.btn-info:hover {
+    background-color: #429fa0!important;
+    border-color: #429fa0!important;
+}
+
+.no-gutters {
+     margin-left: 0px!important;
+     margin-right: 0px!important;
+}
+
+ .my-page-title {
+    display: block!important;
+    padding-left: 0!important;
+    margin-right: 0!important;
+    font-size: 3em!important;
+    text-align: center!important;
+    background-color: #44AAAC;
+    color: white!important;
+}
+
+/** TOURNAMENT MANAGER SELECT **/
+
+.bodyWrap {
+    margin-top: 15px;
+}
+
+.tournamentSelectGrid {
+    border: 1px solid #9e9d9d;
+}
+
+.tournamentSelectGrid .row {
+    background-color: whitesmoke;
+}
+
+/** Tournament Manager **/
+
+.team-request-manager-btn-con, .team-request-create-manual-btn-con {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+#tournamentHotelsManagerCon .btn span {
+    text-indent: 5px;
+}
+
+#tournamentHotelsManagerCon {
+    padding-top: 50px;
+}
+
+.tournamentHotelRow {
+    margin-bottom: 50px;
+}
+
+.tmHotelHeader {
+    display: inline-block!important;
+    vertical-align: middle;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tmHotelDeleteBtn {
+    margin-left: 50px;
+}
+
+.align-items-center > button, .align-items-center h3 {
+    vertical-align: middle;
+}
+
+.bootstrap-select.form-control {
+    z-index: inherit;
+}
+
+.tournament-manager-page .panel-body {
+    overflow: visible!important;
+}
+
+/** Team Request Manager **/
+
+#trManagerCon {
+    //padding-top: 50px;
+}
+
+#trManagerCon .panel-body {
+    padding-top: 0px!important;
+}
+
+.trmSectionHeaderCon h1 {
+    //background-color: #56B9A6;
+    //color: white!important;
+    margin-top: 0px!important;
+    margin-bottom: 0px!important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.trmHotelHeaderCon {
+    padding-top: 15px!important;
+    padding-bottom: 15px;
+    margin-bottom: 20px!important;
+    //background-color: #1063A3;
+    background-color: #56B9A6
+}
+
+.trmHotelHeader {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    //color: rgb(87, 87, 87);
+}
+
+.trTeamInfoTable, .trRoomsRequestedCon {
+    border-top: none!important;
+}
+
+.trmTeamInfoCon {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.trmTeamInfoCon label {
+    font-weight: 600!important;
+}
+
+.trBtnCon {
+    //padding-right: 15px!important;
+    text-align: right;
+}
+
+
+.trmADHeader {
+    display: block!important;
+    padding-left: 0!important;
+    margin-right: 0!important;
+    margin-top: 0px!important;
+    padding-top: 30px!important;
+    padding-bottom: 30px!important;
+    font-size: 2em!important;
+    font-weight: bold;
+    text-align: center!important;
+    background-color: #44AAAC;
+    color: white!important;
+}
+
+
+.requestedRoomsFormGroup {
+    margin-bottom: 25px!important;
+}
+
+#updateApprovedTeamRequestForm {
+    //margin-bottom: 50px;
+    margin: 0px auto 50px auto;
+}
+
+
+/** COLORS **/
+
+/** 
+
+middle blue: #1063A3
+
+strongest blue: #0956A3
+
+middle green: #44AAAC
+
+strongest green: #56B9A6
+
+**/
